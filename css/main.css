@@ -1,6 +1,6 @@
 html {
-font-family: "Abhaya Libre", serif;
-color: #fff;
+  font-family: "Abhaya Libre", serif;
+  color: #fff;
 }
 
 .masthead {
@@ -27,13 +27,12 @@ li {
 
 @media only screen and (min-width: 60em) {
 
-.nav {
+  .nav {
   text-align: right;
-}
+  }
 
-.logo {
+  .logo {
   text-align: left;
-}
-
+  }
 
 }
