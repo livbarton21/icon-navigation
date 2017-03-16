@@ -28,11 +28,11 @@ li {
 @media only screen and (min-width: 60em) {
 
   .nav {
-  text-align: right;
+    text-align: right;
   }
 
   .logo {
-  text-align: left;
+    text-align: left;
   }
 
 }
